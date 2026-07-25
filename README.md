@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Satyam6306/Baxxy/tree/main/0001-two-sum/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam6306/Baxxy/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam6306/Baxxy/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam6306/Baxxy/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Satyam6306/Baxxy/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
