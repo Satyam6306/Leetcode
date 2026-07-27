@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Satyam6306/Baxxy/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Satyam6306/Baxxy/tree/main/0881-boats-to-save-people/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Satyam6306/Baxxy/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam6306/Baxxy/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Satyam6306/Baxxy/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Math
@@ -67,8 +68,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Satyam6306/Baxxy/tree/main/0881-boats-to-save-people/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Satyam6306/Baxxy/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Satyam6306/Baxxy/tree/main/0881-boats-to-save-people/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0962-maximum-width-ramp](https://github.com/Satyam6306/Baxxy/tree/main/0962-maximum-width-ramp/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0962-maximum-width-ramp](https://github.com/Satyam6306/Baxxy/tree/main/0962-maximum-width-ramp/) | Medium |
 <!---LeetCode Topics End-->
