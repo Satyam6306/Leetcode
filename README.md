@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam6306/Baxxy/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Satyam6306/Baxxy/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/Satyam6306/Baxxy/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Satyam6306/Baxxy/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam6306/Baxxy/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Satyam6306/Baxxy/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Satyam6306/Baxxy/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Satyam6306/Baxxy/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/Satyam6306/Baxxy/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Satyam6306/Baxxy/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Satyam6306/Baxxy/tree/main/0881-boats-to-save-people/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Satyam6306/Baxxy/tree/main/0962-maximum-width-ramp/) | Medium |
