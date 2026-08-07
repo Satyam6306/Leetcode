@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam6306/Baxxy/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Satyam6306/Baxxy/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam6306/Baxxy/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/Satyam6306/Baxxy/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/Satyam6306/Baxxy/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam6306/Baxxy/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Satyam6306/Baxxy/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam6306/Baxxy/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/Satyam6306/Baxxy/tree/main/0274-h-index/) | Medium |
+| [0275-h-index-ii](https://github.com/Satyam6306/Baxxy/tree/main/0275-h-index-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Satyam6306/Baxxy/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Satyam6306/Baxxy/tree/main/0658-find-k-closest-elements/) | Medium |
