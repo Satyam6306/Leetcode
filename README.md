@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/Satyam6306/Baxxy/tree/main/0143-reorder-list/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Satyam6306/Baxxy/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Satyam6306/Baxxy/tree/main/0881-boats-to-save-people/) | Medium |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/Satyam6306/Baxxy/tree/main/0143-reorder-list/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Satyam6306/Baxxy/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Satyam6306/Baxxy/tree/main/0274-h-index/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Satyam6306/Baxxy/tree/main/0143-reorder-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Satyam6306/Baxxy/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
