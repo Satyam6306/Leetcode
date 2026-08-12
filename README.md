@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Satyam6306/Baxxy/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Satyam6306/Baxxy/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Satyam6306/Baxxy/tree/main/0070-climbing-stairs/) | Easy |
 ## Sorting
@@ -119,9 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Satyam6306/Baxxy/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam6306/Baxxy/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Satyam6306/Baxxy/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Satyam6306/Baxxy/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
