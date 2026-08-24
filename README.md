@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam6306/Baxxy/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Satyam6306/Baxxy/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Satyam6306/Baxxy/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/Satyam6306/Baxxy/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Satyam6306/Baxxy/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam6306/Baxxy/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Satyam6306/Baxxy/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Satyam6306/Baxxy/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Satyam6306/Baxxy/tree/main/0070-climbing-stairs/) | Easy |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Satyam6306/Baxxy/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
