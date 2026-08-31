@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam6306/Baxxy/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam6306/Baxxy/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/Satyam6306/Baxxy/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/Satyam6306/Baxxy/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam6306/Baxxy/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Satyam6306/Baxxy/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/Satyam6306/Baxxy/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
