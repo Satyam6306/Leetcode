@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Satyam6306/Baxxy/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Satyam6306/Baxxy/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Satyam6306/Baxxy/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Satyam6306/Baxxy/tree/main/0070-climbing-stairs/) | Easy |
@@ -116,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Satyam6306/Baxxy/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/Satyam6306/Baxxy/tree/main/0143-reorder-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Satyam6306/Baxxy/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/Satyam6306/Baxxy/tree/main/0143-reorder-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
