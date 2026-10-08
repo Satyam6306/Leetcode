@@ -153,4 +153,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam6306/Baxxy/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam6306/Baxxy/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam6306/Baxxy/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam6306/Baxxy/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam6306/Baxxy/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
