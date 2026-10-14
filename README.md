@@ -169,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam6306/Baxxy/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
