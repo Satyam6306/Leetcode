@@ -174,9 +174,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/Satyam6306/Baxxy/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Satyam6306/Baxxy/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/Satyam6306/Baxxy/tree/main/3813-vowel-consonant-score/) | Easy |
 <!---LeetCode Topics End-->
