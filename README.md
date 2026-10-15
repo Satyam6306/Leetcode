@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satyam6306/Baxxy/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam6306/Baxxy/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/Satyam6306/Baxxy/tree/main/0046-permutations/) | Medium |
+| [0054-spiral-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/Satyam6306/Baxxy/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam6306/Baxxy/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam6306/Baxxy/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Divide and Conquer
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Satyam6306/Baxxy/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/Satyam6306/Baxxy/tree/main/3813-vowel-consonant-score/) | Easy |
