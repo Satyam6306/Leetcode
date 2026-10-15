@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satyam6306/Baxxy/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam6306/Baxxy/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/Satyam6306/Baxxy/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Satyam6306/Baxxy/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/Satyam6306/Baxxy/tree/main/0090-subsets-ii/) | Medium |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Satyam6306/Baxxy/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Satyam6306/Baxxy/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Satyam6306/Baxxy/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Satyam6306/Baxxy/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Satyam6306/Baxxy/tree/main/0070-climbing-stairs/) | Easy |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Satyam6306/Baxxy/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam6306/Baxxy/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
