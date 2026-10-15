@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam6306/Baxxy/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam6306/Baxxy/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Satyam6306/Baxxy/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/Satyam6306/Baxxy/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Satyam6306/Baxxy/tree/main/3701-compute-alternating-sum/) | Easy |
 <!---LeetCode Topics End-->
