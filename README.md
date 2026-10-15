@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Satyam6306/Baxxy/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Satyam6306/Baxxy/tree/main/0275-h-index-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Satyam6306/Baxxy/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/Satyam6306/Baxxy/tree/main/0495-teemo-attacking/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satyam6306/Baxxy/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Satyam6306/Baxxy/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Satyam6306/Baxxy/tree/main/0704-binary-search/) | Easy |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Satyam6306/Baxxy/tree/main/0054-spiral-matrix/) | Medium |
+| [0495-teemo-attacking](https://github.com/Satyam6306/Baxxy/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Satyam6306/Baxxy/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Satyam6306/Baxxy/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/Satyam6306/Baxxy/tree/main/3813-vowel-consonant-score/) | Easy |
